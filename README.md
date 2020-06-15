@@ -1,2 +1,2 @@
-# ohbm2020
-OHBM 2020 TIRL demo
+# Tensor Image Registration Library
+## Software Demonstration - OHBM 2020
